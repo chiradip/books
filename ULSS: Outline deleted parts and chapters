@@ -1,1 +1,20 @@
+## Part V: System Architecture Patterns
+
+### Chapter 13: Microservices and Service-Oriented Architecture
+- Decomposition strategies and service boundaries
+- Inter-service communication patterns
+- Data consistency in microservices: Saga pattern and event choreography
+- Service versioning and evolutionary architecture
+
+### Chapter 14: Event-Driven Architectures
+- Event sourcing and event stores
+- CQRS (Command Query Responsibility Segregation)
+- Event choreography vs. orchestration
+- Event streaming platforms and their ecosystem
+
+### Chapter 15: Serverless and Function-as-a-Service
+- Serverless computing models and their scaling properties
+- Cold start problems and optimization strategies
+- Serverless data processing and event-driven workflows
+- Edge functions and distributed serverless architectures
 
